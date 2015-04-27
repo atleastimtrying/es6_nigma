@@ -1,0 +1,10 @@
+*{
+  font-family:sans-serif;
+  font-size:16px;
+}
+label{
+  display:block;
+}
+input[type=text]{
+  display:block;
+}
